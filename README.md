@@ -23,3 +23,14 @@ The project was initially developed as a multiplayer game where two players coul
 - Game Development Logic
 
 This project helped strengthen my Python fundamentals while providing hands-on experience in implementing AI concepts through a practical game development project.
+
+## How to Run
+
+- Download or clone the repository
+- Open the project folder in your preferred Python environment.
+- Run the Python file:
+  python tictactoe.py
+- Choose:
+  1. for Single Player (Player vs AI)
+  2. for Multiplayer (Player vs Player)
+- Follow the on-screen instructions to play the game.
